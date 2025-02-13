@@ -1,0 +1,1 @@
+This is the first project practice of the 100 Days of Code Python course, ministrated by Angela Yu and available on Udemy.com. This program is a choice-based adventure — a treasure hunt, if you will. You must choose the right directions before getting to the treasure.
